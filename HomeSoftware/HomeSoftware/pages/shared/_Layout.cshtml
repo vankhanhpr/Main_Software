@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    @RenderSection("Css", required: false)
+</head>
+<body>
+    <div class="container body-content">
+        <div class="m main-form">
+            @RenderBody()
+        </div>
+       
+        <footer>
+            @*<p>&copy; VNPT Software Center</p>*@
+        </footer>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
