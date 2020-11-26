@@ -18,11 +18,13 @@
     .home-title{
         color:white;
         margin-top:5px;
+        font-size:20px;
     }
     .home-body{
         width:100%;
         border:1px solid rgba(51,51,51,0.1);
         padding:10px;
+        min-height:80vh;
     }
     .border-item {
         width: 20%;
@@ -30,7 +32,7 @@
         
     }
     .item-form {
-        min-height: 60px;
+        min-height: 80px;
         background-color: #99c794;
         width: 100%;
         text-align: center;
@@ -38,12 +40,27 @@
         border-radius: 4px;
         padding: 5px;
         cursor: pointer;
-        background-image: linear-gradient(purple, pink);
+        background-image: linear-gradient( to right, #FFBA96, #F98C9C);
     }
-    .title-item{
-        width:100%;
-        color:white;
-        font-size:18px;
+    .tab2 {
+        background-image: linear-gradient( to right, #2A92E5, #8DC9F9);
+    }
+    .tab3 {
+        background-image: linear-gradient( to right, #2CCFB5, #81D8D1);
+    }
+    .tab4 {
+        background-image: linear-gradient( to right, #cf2c9f, #d8d0b8);
+    }
+    .tab5 {
+        background-image: linear-gradient( to right, #cfaa2c, #d8d0b8);
+    }
+    .tab6 {
+        background-image: linear-gradient( to right, #cf752c, #d8d0b8);
+    }
+    .title-item {
+        width: 100%;
+        color: white;
+        font-size: 18px;
     }
 }
 @media only screen and (min-width:1200px) {

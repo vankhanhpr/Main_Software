@@ -49,7 +49,7 @@ using HomeSoftware;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a09e41f17b1347fdbdee68cd600e4a15", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d1083e8ed0e421597dab87bb53bd0b6", async() => {
                 BeginContext(31, 36, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    ");
                 EndContext();
@@ -79,7 +79,7 @@ Write(RenderSection("Css", required: false));
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(116, 293, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d43ba47aecf345a898ada8b432c5ffc2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8398108e62d948d1ac941e668e890a3b", async() => {
                 BeginContext(122, 91, true);
                 WriteLiteral("\r\n    <div class=\"container body-content\">\r\n        <div class=\"m main-form\">\r\n            ");
                 EndContext();
