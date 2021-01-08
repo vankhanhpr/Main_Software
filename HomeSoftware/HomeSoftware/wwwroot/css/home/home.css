@@ -78,6 +78,31 @@
     .tab6 {
         background-image: linear-gradient( to right, #cf752c, #d8d0b8);
     }
+    .tab8 {
+        background-image: linear-gradient( to right, #cf657c, #d9d0b9);
+    }
+    .tab9 {
+        background-image: linear-gradient( to right, #bf7e7c, #c2d0b7);
+    }
+    .tab10 {
+        background-image: linear-gradient( to right, #cfaa2c, #8DC9F9);
+    }
+    .tab11 {
+        background-image: linear-gradient( to right, #e01f1f, #FFBA96);
+    }
+    .tab12 {
+        background-image: linear-gradient( to right, #e01f1g, #FFBA96);
+    }
+    .tab13 {
+        background-image: linear-gradient( to right, #99c794, #e01f1f);
+    }
+    .tab14 {
+        background-image: linear-gradient( to right, #007acc, #1dd82d);
+    }
+    .tab15 {
+        background-image: linear-gradient( to right, #e0cb24, #42d5d5);
+    }
+    
     .title-item {
         width: 100%;
         color: white;

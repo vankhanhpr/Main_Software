@@ -11797,23 +11797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KhanhNguyenIT\\.nuget\\packages\\": {},
+    "C:\\Users\\hoang\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ASP.NET\\Main_Software\\HomeSoftware\\HomeSoftware\\HomeSoftware.csproj",
+      "projectUniqueName": "D:\\EBUIL\\Main_Software\\HomeSoftware\\HomeSoftware\\HomeSoftware.csproj",
       "projectName": "HomeSoftware",
-      "projectPath": "F:\\ASP.NET\\Main_Software\\HomeSoftware\\HomeSoftware\\HomeSoftware.csproj",
-      "packagesPath": "C:\\Users\\KhanhNguyenIT\\.nuget\\packages\\",
-      "outputPath": "F:\\ASP.NET\\Main_Software\\HomeSoftware\\HomeSoftware\\obj\\",
+      "projectPath": "D:\\EBUIL\\Main_Software\\HomeSoftware\\HomeSoftware\\HomeSoftware.csproj",
+      "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+      "outputPath": "D:\\EBUIL\\Main_Software\\HomeSoftware\\HomeSoftware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KhanhNguyenIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
